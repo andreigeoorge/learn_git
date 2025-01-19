@@ -5,3 +5,5 @@ fourth line
 fifth line
 
 added by first-branch
+
+added by second-branch
