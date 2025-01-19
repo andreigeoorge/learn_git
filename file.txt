@@ -7,3 +7,7 @@ fifth line
 added by first-branch
 
 added by second-branch
+
+add squash 1
+add squash 2
+add squash 3
